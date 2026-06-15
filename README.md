@@ -152,7 +152,3 @@ This project taught me much more than just training a neural network.
 One of the biggest takeaways from this project was learning that machine learning development involves a lot of experimentation, troubleshooting, and optimization—not just building the model itself.
 
 ---
-
-## 📌 Resume Summary
-
-Developed a real-time Sign Language Translator using TensorFlow, OpenCV, and MobileNetV2 transfer learning to classify ASL hand gestures from webcam and image inputs. Built an interactive Streamlit application for live gesture-to-text translation and achieved 96% validation accuracy on the ASL Alphabet dataset.
